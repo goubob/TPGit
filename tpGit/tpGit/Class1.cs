@@ -9,5 +9,7 @@ namespace tpGit
     public class Class1
     {
         private string nom;
+        private string prenom;
+
     }
 }
